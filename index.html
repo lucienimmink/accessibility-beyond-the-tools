@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>Accessibility - Beyond the tools</title>
+
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/trsit.css">
+
+		<link rel="stylesheet" href="plugin/highlight/nightowl.css">
+	</head>
+	<body>
+		<div class="background-emoji"></div>
+		<div class="reveal">
+			<div class="slides">
+				<section data-markdown="src/index.md" data-separator="---" data-separator-vertical="^\n--\n$"></section>
+			</div>
+		</div>
+		<div class="powered-by">
+			<a href="https://www.teamrockstars.nl"><img src="assets/trit.png" alt="Team Rockstars IT"></a>
+		</div>
+		
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			const slideChange = event => {
+				const slide = event.currentSlide;
+				const newTheme = slide?.dataset?.theme;
+				if (newTheme) {
+					document.querySelector('html').dataset.theme = newTheme;
+				}
+				const backgroundEmoji = slide?.dataset?.backgroundEmoji;
+				document.querySelector('.background-emoji').textContent = backgroundEmoji;
+			}
+
+			const reveal = Reveal.initialize({
+				controls: false,
+				progress: false,
+				hash: true,
+				transition: 'fade',
+				keyboard: true,
+				plugins: [ RevealMarkdown, RevealHighlight ]
+			});
+			Reveal.on('slidechanged', slideChange);
+			Reveal.on('ready', slideChange);
+		</script>
+	</body>
+</html>
