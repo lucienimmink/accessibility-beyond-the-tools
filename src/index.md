@@ -34,38 +34,9 @@
 <!-- .slide: data-theme="black" data-background-emoji="👨‍🍳"-->
 ## Menu
 
-- Accessibilty is difficult<!-- .element: class="fragment fade-in-then-semi-out" -->
 - What is accessibility?<!-- .element: class="fragment fade-in-then-semi-out" -->
+- Accessibilty is difficult<!-- .element: class="fragment fade-in-then-semi-out" -->
 - Changing the mindset<!-- .element: class="fragment fade-in-then-semi-out" -->
-
----
-<!-- .slide: data-theme="black" data-background-emoji="😱"-->
-## Accessibily is difficult
-
----
-
-<!-- .slide: data-background-image="/assets/train.jpg" -->
-
----
-
-<!-- .slide: data-background-image="/assets/stairs.jpg" -->
-
----
-
-<!-- .slide: data-background-image="/assets/toilet.jpg" -->
-
----
-
-<!-- .slide: data-background-image="/assets/bump.jpg" -->
-
----
-
-<!-- .slide: data-background-image="/assets/age.jpg" -->
-
----
-
-<!-- .slide: data-theme="black" data-background-emoji="💡"-->
-## Accessibily is _only_ difficult if it is an afterthought
 
 ---
 
@@ -89,7 +60,11 @@
 ## Budget is an issue
 
 <p>Except for bandwidth and speed... </p><!-- .element: class="fragment fade-in" -->
-<p>...which is kind of weird</p><!-- .element: class="fragment fade-in" -->
+
+---
+
+<!-- .slide: data-theme="black" data-background-emoji="🤷"-->
+## Accessibility is an afterthought
 
 ---
 
@@ -99,6 +74,30 @@
 - "People with disabilities don’t use our product."<!-- .element: class="fragment fade-in-then-semi-out" -->
 - It's only used internally<!-- .element: class="fragment fade-in-then-semi-out" -->
 - I have enough issues getting "normal" peope to use my product<!-- .element: class="fragment fade-in-then-semi-out" -->
+
+---
+<!-- .slide: data-theme="black" data-background-emoji="😱"-->
+## Accessibility is difficult
+
+---
+
+<!-- .slide: data-background-image="/assets/train.jpg" -->
+
+---
+
+<!-- .slide: data-background-image="/assets/stairs.jpg" -->
+
+---
+
+<!-- .slide: data-background-image="/assets/toilet.jpg" -->
+
+---
+
+<!-- .slide: data-background-image="/assets/bump.jpg" -->
+
+---
+
+<!-- .slide: data-background-image="/assets/age.jpg" -->
 
 ---
 
@@ -127,12 +126,17 @@
 <!-- .slide: data-theme="black" data-background-emoji="⛔"-->
 ## Yes... but
 
-- Adds another barrier<!-- .element: class="fragment fade-in-then-semi-out" -->
-- Still an afterthought<!-- .element: class="fragment fade-in-then-semi-out" -->
-- All benefits come from using web standards and best practises!<!-- .element: class="fragment fade-in-then-semi-out" -->
-- So they work best on (near-)accessible sites!<!-- .element: class="fragment fade-in-then-semi-out" -->
+- Adds another barrier<!-- .element: class="fragment fade-in-then-semi-out error" -->
+- Still an afterthought<!-- .element: class="fragment fade-in-then-semi-out error" -->
+- All benefits come from using web standards and best practises!<!-- .element: class="fragment fade-in-then-semi-out error" -->
+- So they work best on (near-)accessible sites!<!-- .element: class="fragment fade-in-then-semi-out checked" -->
 - ...<!-- .element: class="fragment fade-in-then-semi-out" -->
-- Profit!<!-- .element: class="fragment fade-in-then-semi-out" -->
+- Profit!<!-- .element: class="fragment fade-in-then-semi-out checked" -->
+
+---
+
+<!-- .slide: data-theme="black" data-background-emoji="💡"-->
+## Accessibility is _only_ difficult if it is an afterthought
 
 ---
 
@@ -189,6 +193,10 @@
 - .. if it is an afterthought<!-- .element: class="fragment fade-in-then-semi-out checked" -->
 - Accessibility overlays are bad, mkay<!-- .element: class="fragment fade-in-then-semi-out checked" -->
 - Change the mindset<!-- .element: class="fragment fade-in-then-semi-out checked" -->
+
+---
+
+<!-- .slide: data-background-image="/assets/universal-design-accessibility.jpg" -->
 
 ---
 

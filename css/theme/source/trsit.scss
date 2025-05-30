@@ -196,16 +196,37 @@ $heading2Size: 2em;
 	ul:has(li.checked) {
 		list-style-type: none;
 
-		li.checked {
+		li {
 			display: grid;
 			grid-template-columns: 0 1fr;
 			grid-gap: 1.75em;
 			align-items: start;
 			line-height: 1.5;
+			&::before {
+				content: '';
+			}
+			&.checked::before {
+				content: '✅';
+				color: var(--r-main-color);
+			}
 		}
-		li.checked::before {
-			content: '✅';
-			color: var(--r-main-color);
+	}
+	ul:has(li.error) {
+		list-style-type: none;
+
+		li {
+			display: grid;
+			grid-template-columns: 0 1fr;
+			grid-gap: 1.75em;
+			align-items: start;
+			line-height: 1.5;
+			&::before {
+				content: '';
+			}
+			&.error::before {
+				content: '⛔';
+				color: var(--r-main-color);
+			}
 		}
 	}
 }

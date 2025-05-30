@@ -510,15 +510,35 @@ html .reveal-viewport {
 .reveal ul:has(li.checked) {
   list-style-type: none;
 }
-.reveal ul:has(li.checked) li.checked {
+.reveal ul:has(li.checked) li {
   display: grid;
   grid-template-columns: 0 1fr;
   grid-gap: 1.75em;
   align-items: start;
   line-height: 1.5;
 }
+.reveal ul:has(li.checked) li::before {
+  content: "";
+}
 .reveal ul:has(li.checked) li.checked::before {
   content: "✅";
+  color: var(--r-main-color);
+}
+.reveal ul:has(li.error) {
+  list-style-type: none;
+}
+.reveal ul:has(li.error) li {
+  display: grid;
+  grid-template-columns: 0 1fr;
+  grid-gap: 1.75em;
+  align-items: start;
+  line-height: 1.5;
+}
+.reveal ul:has(li.error) li::before {
+  content: "";
+}
+.reveal ul:has(li.error) li.error::before {
+  content: "⛔";
   color: var(--r-main-color);
 }
 
