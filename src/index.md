@@ -196,6 +196,15 @@
 
 ---
 
+<!-- .slide: data-theme="black" data-background-emoji="📃"-->
+## What will you do different next week?
+
+- Ask a non-dev colleague to test your component?<!-- .element: class="fragment fade-in-then-semi-out" -->
+- Zoom in to (grand-)mother level!<!-- .element: class="fragment fade-in-then-semi-out" -->
+- Mouse-less friday?<!-- .element: class="fragment fade-in-then-semi-out" -->
+
+---
+
 <!-- .slide: data-background-image="/assets/universal-design-accessibility.jpg" -->
 
 ---
