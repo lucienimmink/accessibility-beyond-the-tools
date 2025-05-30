@@ -196,7 +196,7 @@
 
 ---
 
-<!-- .slide: data-theme="black" data-background-emoji="📃"-->
+<!-- .slide: data-theme="black" data-background-emoji="🤔"-->
 ## What will you do different next week?
 
 - Ask a non-dev colleague to test your component?<!-- .element: class="fragment fade-in-then-semi-out" -->
