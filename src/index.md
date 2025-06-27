@@ -177,11 +177,16 @@
 
 ---
 
+<!-- .slide: data-background-image="/assets/effort-time.jpg" -->
+
+---
+
 <!-- .slide: data-theme="black" data-background-emoji="📃"-->
 ## Reasons why accessibility is important
 
-- Mandatory by law<!-- .element: class="fragment fade-in-then-semi-out checked" -->
 - You reach a lot more people<!-- .element: class="fragment fade-in-then-semi-out checked" -->
+- Mandatory by law<!-- .element: class="fragment fade-in-then-semi-out checked" -->
+- Cheaper in the long run<!-- .element: class="fragment fade-in-then-semi-out checked" -->
 - You are doing the right thing<!-- .element: class="fragment fade-in-then-semi-out checked" -->
 
 ---
