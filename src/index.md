@@ -73,7 +73,7 @@
 
 - "People with disabilities don’t use our product."<!-- .element: class="fragment fade-in-then-semi-out" -->
 - It's only used internally<!-- .element: class="fragment fade-in-then-semi-out" -->
-- I have enough issues getting "normal" peope to use my product<!-- .element: class="fragment fade-in-then-semi-out" -->
+- I have enough issues getting "normal" people to use my product<!-- .element: class="fragment fade-in-then-semi-out" -->
 
 ---
 <!-- .slide: data-theme="black" data-background-emoji="😱"-->
@@ -208,6 +208,9 @@
 - Zoom in to (grand-)mother level!<!-- .element: class="fragment fade-in-then-semi-out" -->
 - Mouse-less friday?<!-- .element: class="fragment fade-in-then-semi-out" -->
 
+---
+
+<!-- .slide: data-background-image="/assets/Magic-Mouse-2.png" -->
 ---
 
 <!-- .slide: data-background-image="/assets/universal-design-accessibility.jpg" -->
