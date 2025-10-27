@@ -181,6 +181,13 @@
 
 ---
 
+## Make accessibility part of the full software lifecycle
+
+- Afterwards: About 25% of project budget<!-- .element: class="fragment fade-in-then-semi-out error" -->
+- Inclusive: About 5% of project budget<!-- .element: class="fragment fade-in-then-semi-out checked" -->
+
+---
+
 <!-- .slide: data-theme="black" data-background-emoji="📃"-->
 ## Reasons why accessibility is important
 

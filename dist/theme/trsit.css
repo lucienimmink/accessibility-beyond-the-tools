@@ -53,7 +53,6 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .reveal-viewport {
   --trsit-black: black;
   --trsit-yellow: #FFE000;
-  background-color: var(--r-background-color);
 }
 html[data-theme=yellow] .reveal-viewport {
   --r-background-color: var(--trsit-yellow);
@@ -74,6 +73,9 @@ html[data-theme=white] .reveal-viewport {
   --r-background-color: white;
 }
 html .reveal-viewport {
+  background-color: var(--r-background-color);
+}
+.reveal-viewport {
   background-color: var(--r-background-color);
 }
 
