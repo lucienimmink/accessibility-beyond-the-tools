@@ -52,7 +52,7 @@
     "highlight.js": "^11.9.0",
     "marked": "^16.0.0",
     "node-qunit-puppeteer": "^2.2.0",
-    "through2": "^4.0.2",
+    "through2": "^5.0.0",
     "qunit": "^2.22.0",
     "rollup": "^4.1.5",
     "sass": "^1.79.4",
